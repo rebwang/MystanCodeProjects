@@ -1,3 +1,5 @@
 # MystanCodeProjects
 
-These projects are assignments from StanCode SC001 & SC101, and there are 10 assignments in total. Each assignment is allocated in one file with a number indicates the assignment sequence, for example: 0_assignmentname, 1_assignmentname..., etc. In each assignment, there will be several python files. If you would like to run the assignments, recommend you to download the whole assignment file instead of selecting a particular python file.
+These projects are assignments from StanCode SC001 & SC101, 11 assignments in total. Each assignment is allocated to a separate file, with the number indicating the sequence, for example, '0_assignmentname', '1_assignmentname', and so on.
+
+Within each assignment, you will find several Python files. To run the assignments smoothly, I recommend downloading the entire assignment file, as all the necessary components are gathered within the same file.
